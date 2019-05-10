@@ -1,0 +1,12 @@
+luego de un arduo trabajo , el objetivo principal fue cumplido, a pesar de que  hubo una pequeña cantidad
+de mal interpretaciones con lo que requeria el trabajo, lo mas complicado realmente , a pesar de que puede 
+ser visto como el apartado mas facil, fue el hardware, dado que el montaje del circuito se tuvo que hacer varias veces
+por cosa de orden y el codigo de colores que debe presentar el hardware, a demas que los recursos para montarlo, por poco
+no bastaban con lo que tenia en el momento del ensamblaje, por parte de software , no hubo problema alguno , dado que el
+implementar una compuerta logica es relativamente sencillo cuando se tiene a dispocicion el uso de internet para investigar
+como era el simbolo dentro del booleano de las estructuras de control, y luego simplemente es necesario escribir una
+estructura de control y luego copiarla y pegarla el resto de veces(modificandola en caea caso despues de "pegar" el texto").
+Aparte de todo lo mencionado , el aprendizaje de como funciona cada compuerta logica se facilito bastante gracias a dos 
+cosas, lo practico( cuando ensamblaba el circuito e ir probando) y lo teorico ( la misma imagen de las compuertas logicas 
+y las tablas de verdades que estaban a disposicion de los alumnos en campus virtual).
+Actualmente el circuito esta funcionando correctamente y sin problema alguno.
